@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔥 Exclusive XXX Content 🔥</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 100px auto;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            color: red;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: red;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: darkred;
+        }
+        .gif-container {
+            margin-top: 20px;
+        }
+        .gif-container img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>🔥 Get Access to Exclusive XXX Content 🔥</h1>
+        <p>Watch the hottest videos, uncensored, and 100% free! Click below to enter now.</p>
+        
+        <div class="gif-container">
+            <img src="https://media.giphy.com/media/l0HlRvB3Kwv9hApWo/giphy.gif" alt="Sexy GIF">
+        </div>
+
+        <a href="https://YOUR-OFFER-LINK.com" class="cta-button">👀 Watch Now</a>
+    </div>
+
+</body>
+</html>
